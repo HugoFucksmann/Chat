@@ -4,7 +4,7 @@ Chat offline que utiliza sockets desarrollado en Java
 
 ### Instalación 🔧
 
-_Descomprimir y ejecutar el .jar (dentro del .rar) o bien cargar el servidor y cliente y ejecutarlo desde consola
+_Descomprimir y ejecutar el .jar (dentro del .rar) o bien cargar el servidor y cliente y ejecutarlo desde consola_
 
 ## paquetes implementados 🛠️
 
